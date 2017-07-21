@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>philjones.nquant</id>
+    <version>$version$</version>
+    <title>nQuant</title>
+    <authors>philjones</authors>
+    <owners>philjones</owners>
+    <projectUrl>https://github.com/philjones/nquant</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>nQuant is a .net color quantizer that can dramatically reduce the size of images with little to no perceptible quality loss.</description>
+    <releaseNotes>Fixes a bug with large images of similar colour crashing or becoming transparent</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>nquant PNG image optimization quantization</tags>
+  </metadata>
+</package>
