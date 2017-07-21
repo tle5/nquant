@@ -66,12 +66,9 @@
     <Compile Include="WuQuantizerBase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Nuget\nQuant.nuspec" />
+    <None Include="nQuant.Core.nuspec" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Nuget\Lib\" />
-    <Folder Include="Nuget\Tools\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
